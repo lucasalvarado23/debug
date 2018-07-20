@@ -1,0 +1,33 @@
+.profile-area img {
+    max-width: 150px;
+    margin-bottom: 20px;
+  }
+  .panel-body h3 {
+    margin-top: 0;
+  }
+  img {
+      size: auto;
+  }
+
+h2 {
+}
+
+.sidebar-section img {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+.jumbotron {
+  background-image: url("https://images.pexels.com/photos/1068523/pexels-photo-1068523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.carousel {
+  position: relative;
+  width: 500px;
+  margin: 0 auto;
+}
+
+body{
+  background-color: #337ab7;
+}

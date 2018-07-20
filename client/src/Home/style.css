@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+}
+
+
+body {
+	  background-color: #2e6da4;
+	   height: 100%; 
+	   width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+
+h3 {
+	background-color:#2e6da4;
+	color: white;
+}
+
+.eventCode{
+	color: #337ab7;
+}
+
+.submit {
+	background: #2e6da4;
+	color:white;
+	border: black;
+}
+

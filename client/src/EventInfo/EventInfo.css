@@ -1,0 +1,23 @@
+h1 {
+	color: black;
+	background-color: white;
+}
+
+input{
+	display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.container{
+	height: auto;
+}
+
+.info{
+	height: 300px;
+	width: 300px;
+	background-color: white;
+	color: black;
+}
