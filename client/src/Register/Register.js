@@ -119,7 +119,6 @@ handleNewImage = event => {
           </h1>
   <form onSubmit={(e)=>this.handleSubmit(e,this.state)}>
         <label>
-        <label>
               <input type="text" placeholder="User Name" name="userName"  value={this.state.userName} 
               onChange={this.handleInputChange}/>
           </label>
@@ -146,7 +145,6 @@ handleNewImage = event => {
         <label>
             <input type="text" placeholder="Favorite Food" name="food"
             value={this.state.food} onChange={this.handleInputChange} />
-        </label>
         </label>
         <label>
                   <input type='file' onChange={this.handleNewImage} /> <br /><br />
